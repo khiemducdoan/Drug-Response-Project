@@ -21,4 +21,4 @@ rad.json
 #Test results file
 TestResults.xml
 
-_ignore.ipynb
+*_ignore.*
